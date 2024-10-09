@@ -10,6 +10,8 @@ main:
     url: /year-archive/
   - title: "Year_grid"
     url: /year-archive-grid/
+  - title: "About me"
+    url: "/about/"
 docs:
   - title: "대목차"
     children: 

@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "site author name 입력하는 곳 "
+  name             : "CodeCoreT입력하는 곳 "
   avatar           : "/assets/images/CoreCodeT_img.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere localtion 입력"
+  location         : "KOREA"
   email            : " E-mail 입력 "
   links:
     - label: "Email"
@@ -273,7 +273,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-redirect-from
+  # - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -282,7 +282,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-redirect-from
+  # - jekyll-redirect-from
 
 
 # Archives

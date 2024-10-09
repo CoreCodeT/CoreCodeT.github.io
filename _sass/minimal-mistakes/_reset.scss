@@ -12,15 +12,15 @@ html {
   font-size: 18px;                    // Default 16px;
 
   @include breakpoint($medium) {
-    font-size: 18px;                  // Default 18px;
+    font-size: 17px;                  // Default 18px;
   }
 
   @include breakpoint($large) {
-    font-size: 18px;                  // Default 20px;
+    font-size: 17x;                  // Default 20px;
   }
 
   @include breakpoint($x-large) {
-    font-size: 18px;                  // Default 22px;
+    font-size: 17px;                  // Default 22px;
   }
 
   -webkit-text-size-adjust: 100%;
