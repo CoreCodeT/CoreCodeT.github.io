@@ -32,7 +32,17 @@ Kenematic Model을 설명하기 위해서 많은 가정들을 사용하는데, �
 
 ### 차량의 기하학적 구조
 점 $\mathbf{O}$ 차량의 선회 반경 중심을 의미한다.
+
+<center>
+<img src="https://www.dropbox.com/scl/fi/0p6cxp5g74aub2ofc972g/Kinematic.png?rlkey=kmftofgsnuan40p4xxqedlgip&st=mlcywim4&dl=1" width = "500" height = "500">    
+</center>
+<center>
+Fig 1. Kinematic bicycle model    
+</center> 
+
+
 OCA에서 sin 법칙을 적용하면 식 (1.1)과 같다.
+
 
 $$
 \frac{\sin \left(\delta_f-\beta\right)}{\ell_f}=\frac{\sin \left(\frac{\pi}{2}-\delta_f\right)}{R} \tag{1.1}
