@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Kinematic Model"
-categories: coding
-tag: [coding]
+categories: vehicle dynamics 
+tag: [vehicle, modeling]
 toc: true
 toc_sticky: true
 toc_label: 목차
@@ -10,7 +10,7 @@ toc_icon: "fas fa-table-tennis"
 author_profile: true
 sidebar: 
     nav: "docs"
-search: true # 이러면 search 안됨
+search: true #
 use_math: true
 sidebar:
     nav: "counts"
@@ -34,7 +34,8 @@ Kenematic Model을 설명하기 위해서 많은 가정들을 사용하는데, �
 점 $\mathbf{O}$ 차량의 선회 반경 중심을 의미한다.
 
 <center>
-<img src="https://www.dropbox.com/scl/fi/0p6cxp5g74aub2ofc972g/Kinematic.png?rlkey=kmftofgsnuan40p4xxqedlgip&st=mlcywim4&dl=1" width = "500" height = "500">    
+<img src="https://www.dropbox.com/scl/fi/0p6cxp5g74aub2ofc972g/Kinematic.png?rlkey=kmftofgsnuan40p4xxqedlgip&st=mlcywim4&dl=1"
+width = "500" height = "500" alt = "Kinematic bicycle model">    
 </center>
 <center>
 Fig 1. Kinematic bicycle model    
@@ -151,7 +152,7 @@ $$
 - $V$: vehicle speed [m/s]
 - $\psi$: heading angle or yaw[rad]
 - $\gamma$: course angle [rad]
-- $\(X, Y\)$: vehicle global position
+- $\(X, Y\)$: vehicle global position [m]
 
 <!-- ### 자전거 모델 운동 방정식
 자전거 모델은 시간에 따라 차량의 위치와 방향이 어떻게 변화하는지를 설명합니다. 차량의 상태는 위치 $(x, y)$, 헤딩 $\theta$, 속도 $v$로 설명됩니다. 제어 입력은 조향각 $\delta$와 차량의 속도 $v$입니다.

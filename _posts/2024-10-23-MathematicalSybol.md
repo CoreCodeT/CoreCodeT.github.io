@@ -2,7 +2,7 @@
 layout: single
 title: "Mathemetical Symbol"
 categories: Math
-tag: [Math]
+tag: [math]
 toc: true
 toc_sticky: true
 toc_label: 목차
