@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Kinematic Model"
-categories: vehicle dynamics 
+categories: [vehicle dynamics]
 tag: [vehicle, modeling]
 toc: true
 toc_sticky: true

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Mathemetical Symbol"
-categories: Math
+categories: math
 tag: [math]
 toc: true
 toc_sticky: true
