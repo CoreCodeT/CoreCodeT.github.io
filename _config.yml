@@ -28,7 +28,7 @@ repository_tree: main
 baseurl                  : # the subpath of your site, e.g. "/blog"
 # repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/CoreCodeT_img.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/CoreCodeT_img2.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -117,7 +117,7 @@ analytics:
 # Site Author
 author:
   name             : "CodeCoreT "
-  avatar           : "/assets/images/CoreCodeT_img.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/CoreCodeT_img2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "안녕하세요. CoreCodeT 입니다."
   location         : "KOREA"
   email            : " E-mail"
