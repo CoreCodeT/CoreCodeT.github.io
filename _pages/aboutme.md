@@ -8,13 +8,12 @@ sidebar:
     nav: "docs"
 ---
 ## GitHub blog 시작 ##
-다양한 업무를 수행하면서 배웠던 것들을 활용한다.   
-그러나, 지속적으로 사용하지 않으면 결국 잊혀진다.   
-배웠지만 잘 기억나지 않는 것들을 사용해야 할 경우 다시 내용들을 찾아본다.
+안녕하세요. 저는 **CoreCodeT** 입니다.  
+저 같은 경우, 다양한 업무를 수행하면서 직/간접적으로 공부했던 것을을 사용하고 있습니다.
+그러나, 배웠던 것들을 지속적으로 사용하지 않으면 잊어버리고 또 정확하게 잘 알지 못하게 됩니다.  
+100% 모든 것을 완벽하게 기억할 수는 없습니다. GitHub blog를 운영하면서 배웠던 지식들을 구조화 하고, 나중에 찾아볼 수 있도록 하고자 합니다.
 
-특히, 기억이 잘 나지 않다보니 뒤죽박죽이 되는 경우가 있다.   
-블로그를 운영함으로써 관련 내용들을 구조화하고, 잘못 알고있는 것들은 수정하고자 한다.
 
 ## 🔧 Skills & Expertise
-- **Programming Languages**: [C/C++, Matlab/Simulink, Python]
-- **Areas of Expertise**: [Control thory, Model based design, Vehicle dynaimics, etc.]   
+- **Programming languages**: [c/c++, matlab/simulink, python]
+- **Areas of expertise**: [control thory, model based design, vehicle dynaimics, autonomous vehicle control, path planning etc.]   
