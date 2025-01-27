@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Github page 작성 시 참고할 수 있는 코드 모음"
+title: "MarkDown 작성 시 참고할 수 있는 문법"
 categories: coding
-tag: [coding]
+tag: [coding, markdown]
 toc: true
 toc_sticky: true
 toc_label: 목차
